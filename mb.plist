@@ -25,13 +25,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>p3.xyz.yyyue.esign</string>
+        <string>com.mbmobile.fake</string>
         <key>bundle-version</key>
-        <string>4.8.2</string>
+        <string>1.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>ESign-Khơindvn</string>
+        <string>MB Bank</string>
       </dict>
     </dict>
   </array>
